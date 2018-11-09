@@ -44,6 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAyuda.Designer.cs">
+      <DependentUpon>FAyuda.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormCliente.cs">
       <SubType>Form</SubType>
     </Compile>

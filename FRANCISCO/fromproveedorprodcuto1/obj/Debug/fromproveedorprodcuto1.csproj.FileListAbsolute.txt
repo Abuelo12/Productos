@@ -76,3 +76,6 @@ G:\FRANCISCO\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.FormProveed
 G:\FRANCISCO\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.MDIProducto.resources
 G:\FRANCISCO\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.Properties.Resources.resources
 G:\FRANCISCO\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.csproj.GenerateResource.Cache
+D:\FRANCISCO CARRASCO\FRANCISCO CARRASCO\FRANCISCO CARRASCO\Documents\GitHub\Productos\FRANCISCO\fromproveedorprodcuto1\bin\Debug\fromproveedorprodcuto1.exe.config
+D:\FRANCISCO CARRASCO\FRANCISCO CARRASCO\FRANCISCO CARRASCO\Documents\GitHub\Productos\FRANCISCO\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.exe
+D:\FRANCISCO CARRASCO\FRANCISCO CARRASCO\FRANCISCO CARRASCO\Documents\GitHub\Productos\FRANCISCO\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.pdb
