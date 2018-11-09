@@ -1,0 +1,28 @@
+F:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaDatos.dll
+F:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaDatos.pdb
+F:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaEntidades.dll
+F:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaEntidades.pdb
+F:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+F:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.dll
+F:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.pdb
+E:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaDatos.dll
+E:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaDatos.pdb
+E:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaEntidades.dll
+E:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaEntidades.pdb
+E:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+E:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.dll
+E:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.pdb
+G:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaDatos.dll
+G:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaDatos.pdb
+G:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaEntidades.dll
+G:\Programacion BD\solucioon1 clase1\capaDatos\bin\Debug\capaEntidades.pdb
+G:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+G:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.dll
+G:\Programacion BD\solucioon1 clase1\capaDatos\obj\Debug\capaDatos.pdb
+G:\FRANCISCO\capaDatos\bin\Debug\capaDatos.dll
+G:\FRANCISCO\capaDatos\bin\Debug\capaDatos.pdb
+G:\FRANCISCO\capaDatos\bin\Debug\capaEntidades.dll
+G:\FRANCISCO\capaDatos\bin\Debug\capaEntidades.pdb
+G:\FRANCISCO\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+G:\FRANCISCO\capaDatos\obj\Debug\capaDatos.dll
+G:\FRANCISCO\capaDatos\obj\Debug\capaDatos.pdb
